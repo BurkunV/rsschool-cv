@@ -6,4 +6,4 @@
 5. https://github.com/BurkunV
 6. Writing small JavaScript programs
 7. BSU Faculty of Radiophysics and Computer Technologies
-8. 
+8. A2
